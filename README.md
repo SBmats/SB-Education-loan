@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
 
-    <title>Education Loan</title>
+    <title>Education Loans</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -235,7 +235,7 @@
               
               <div class="col-lg-12">
                 <fieldset>
-                  <button><a href="#">Apply New</a> </button>
+                  <button><a href="https://wa.link/molsmr">Apply New</a> </button>
                  
                 </fieldset>
               </div>
