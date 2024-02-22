@@ -168,7 +168,15 @@
       <a href="index.html" class="logo">
         <img src="assets/images/eduwell.png" alt="EduWell Template">
     </a>
-    <video width="1100" height="540" controls autoplay>
+    <video width="340" height="240" controls autoplay>
+      <source src="SB.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <video width="340" height="240" controls>
+      <source src="SB.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <video width="340" height="240" controls>
       <source src="SB.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
