@@ -89,7 +89,7 @@
             <h4>Get the Best</h4>
             <h2> Education Loan <em> to Study Abroad</em></h2>
             <div class="main-button-gradient">
-              <div class="scroll-to-section"><a href="#contact-section">Join Us Now!</a></div>
+              <div class="scroll-to-section"><a href="Home.html">Join Us Now!</a></div>
             </div>
           </div>
         </div>
@@ -258,6 +258,7 @@
         </div>
       </div>
     </div>
+    
   </section>
 
   <!-- Scripts -->
